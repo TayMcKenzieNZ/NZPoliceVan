@@ -30,9 +30,11 @@ All credits to the model go to gta5-mods.com/users/BritishGamer88 and their team
 
 - Download zip folder
 
-- Remove `-main` from folder name and place in your `resources` folder or in a vehicle related folder in your FiveM server
+- Remove `-main` from folder name and rename it to `NZPDVan`
 
-- Add `NZPoliceVan` to your `server.cfg`
+- Place in your `resources` folder or in a vehicle related folder in your FiveM server
+
+- Add `NZPDVan` to your `server.cfg`
 
 Enjoy
 
